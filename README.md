@@ -62,7 +62,7 @@
 
 ###
 
-<h4 align="center">• Data Cleaning. • SQL & Python & Excel. • Data Visualization. • Power BI & Tableau. • Data Analysis. • Programming (Java, C#, C++). • Statistical Analysis. <br>• Project Management. • Microsoft Office. • Critical Thinking • Responsibility. • Teamwork. • Problem Solving. • Hard Work.</h4>
+<h4 align="center">• Data Cleaning. • SQL & Python & Excel. • Data Visualization. • Power BI & Tableau. • Data Analysis. • Programming (Java, C#, C++). <br> • Statistical Analysis. • Project Management. • Microsoft Office. • Critical Thinking • Responsibility. • Teamwork. • Problem Solving. • Hard Work.</h4>
 
 ###
 
