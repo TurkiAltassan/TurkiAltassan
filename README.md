@@ -106,9 +106,7 @@
 
 ###
 
-<div align="center">
 ![My Image](pixelcut-export.png)
-</div>
 
 ###
 
