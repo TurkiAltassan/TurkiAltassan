@@ -169,15 +169,3 @@
 <h1 align="center">Thank you for visiting! 🤍</h1>
 
 ###
-
-<img src="https://raw.githubusercontent.com/TurkiAltassan/TurkiAltassan/output/snake.svg" alt="Snake animation" />
-
-###
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/TurkiAltassan/TurkiAltassan/output/snake.svg" alt="Snake animation" />
-
-###
