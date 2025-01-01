@@ -124,9 +124,7 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
+![My Image](Project-Poster.jpg) ![My Image](pixelcut-export-m.jpeg) ![My Image](pixelcut-export-p.png)
 
 ###
 
