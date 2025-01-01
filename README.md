@@ -124,7 +124,7 @@
 
 ###
 
-![My Image](Project-Poster.jpg) ![My Image](pixelcut-export-m.jpeg) ![My Image](pixelcut-export-p.png)
+![My Image 1](Project-Poster.jpg) ![My Image 2](pixelcut-export-m.jpeg) ![My Image 3](pixelcut-export-p.png)
 
 ###
 
