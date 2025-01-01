@@ -102,7 +102,8 @@
 
 ###
 
-<h4 align="center">1.The data was analyzed, cleaned, and organized using #SQL 🎯 through #BigQuery, and the results were visualized using #PowerBI 💻<br>This analysis project provides a comprehensive view of customer demographics, purchase preferences, and sales distribution across categories and brands, helping inform targeted marketing and product strategies.</h4>
+<h4 align="center">1.Customer Performance Analysis for a Store Website
+The data was analyzed, cleaned, and organized using #SQL 🎯 through #BigQuery, and the results were visualized using #PowerBI 💻<br>This analysis project provides a comprehensive view of customer demographics, purchase preferences, and sales distribution across categories and brands, helping inform targeted marketing and product strategies.</h4>
 
 ###
 
@@ -110,7 +111,8 @@
 
 ###
 
-<h4 align="center">2.We aimed to boost customer retention and reduce churn rate for Tharwa Bank. Using Google #BigQuery, #SQL 🎯, and #Looker Studio & #PowerBI, we performed data-driven analysis to enhance performance and engagement.</h4>
+<h4 align="center">2.Tharwa Bank – Data Analysis
+We aimed to boost customer retention and reduce churn rate for Tharwa Bank. Using Google #BigQuery, #SQL 🎯, and #Looker Studio & #PowerBI, we performed data-driven analysis to enhance performance and engagement.</h4>
 
 ###
 
@@ -118,7 +120,8 @@
 
 ###
 
-<h4 align="center">3.Graduation Project of Computer Science - was developed using #Python 🎯 with the tkinter<br>library for creating a graphical user interface. <br>The project's aim is to verify users based on their voices and different sound wave patterns.</h4>
+<h4 align="center">3.Graduation Project
+Graduation Project of Computer Science - was developed using #Python 🎯 with the tkinter<br>library for creating a graphical user interface. <br>The project's aim is to verify users based on their voices and different sound wave patterns.</h4>
 
 ###
 
