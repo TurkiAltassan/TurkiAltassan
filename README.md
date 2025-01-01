@@ -107,7 +107,7 @@
 ###
 
 <div align="center">
-![My Image](https://github.com/TurkiAltassan/blob/main/pixelcut-export.png)
+![My Image](https://raw.githubusercontent.com/TurkiAltassan/main/pixelcut-export.png)
 </div>
 
 ###
