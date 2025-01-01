@@ -102,8 +102,7 @@
 
 ###
 
-<h4 align="center">1.Customer Performance Analysis for a Store Website
-The data was analyzed, cleaned, and organized using #SQL 🎯 through #BigQuery, and the results were visualized using #PowerBI 💻<br>This analysis project provides a comprehensive view of customer demographics, purchase preferences, and sales distribution across categories and brands, helping inform targeted marketing and product strategies.</h4>
+<h4 align="center">1.Customer Performance Analysis for a Store Website - Data Analysis: The data was analyzed, cleaned, and organized using #SQL 🎯 through #BigQuery, and the results were visualized using #PowerBI 💻<br>This analysis project provides a comprehensive view of customer demographics, purchase preferences, and sales distribution across categories and brands, helping inform targeted marketing and product strategies.</h4>
 
 ###
 
@@ -111,8 +110,7 @@ The data was analyzed, cleaned, and organized using #SQL 🎯 through #BigQuery,
 
 ###
 
-<h4 align="center">2.Tharwa Bank – Data Analysis
-We aimed to boost customer retention and reduce churn rate for Tharwa Bank. Using Google #BigQuery, #SQL 🎯, and #Looker Studio & #PowerBI, we performed data-driven analysis to enhance performance and engagement.</h4>
+<h4 align="center">2.Tharwa Bank – Data Analysis: We aimed to boost customer retention and reduce churn rate for Tharwa Bank. Using Google #BigQuery, #SQL 🎯, and #Looker Studio & #PowerBI, we performed data-driven analysis to enhance performance and engagement.</h4>
 
 ###
 
