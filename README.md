@@ -118,8 +118,7 @@
 
 ###
 
-<h4 align="center">3.Graduation Project
-Graduation Project of Computer Science - was developed using #Python 🎯 with the tkinter<br>library for creating a graphical user interface. <br>The project's aim is to verify users based on their voices and different sound wave patterns.</h4>
+<h4 align="center">3.Graduation Project: Graduation Project of Computer Science - was developed using #Python 🎯 with the tkinter<br>library for creating a graphical user interface. <br>The project's aim is to verify users based on their voices and different sound wave patterns.</h4>
 
 ###
 
