@@ -130,7 +130,7 @@
 
 ###
 
-<h2 align="center">"📚 Key Certifications I Have Earned:"</h2>
+<h2 align="center">"📚 My Certifications: "</h2>
 
 ###
 
