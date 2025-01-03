@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">🎓 Bachelor of Computer Science 🖥️</h2>
+<h2 align="center">🎓Bachelor of Computer Science🖥️</h2>
 
 ###
 
