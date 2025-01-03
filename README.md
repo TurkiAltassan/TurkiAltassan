@@ -18,7 +18,7 @@
 
 ###
 
-<h3 align="center">Technical Skills & Tools:</h3>
+<h3 align="center">Languages & Tools:</h3>
 
 ###
 
