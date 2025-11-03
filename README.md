@@ -125,7 +125,7 @@ Highlights strengths, growth opportunities, and customer loyalty trends.</h4>
 
 ###
 
-![My Image](For-sales-1.png) ![My Image](For-sales-2.png) ![My Image](For-sales-3.png) 
+![My Image](For-sales-4.png) ![My Image](For-sales-5.png) ![My Image](For-sales-6.png) ![My Image](For-sales-7.png) ![My Image](For-sales-8.png) ![My Image](For-sales-9.png) ![My Image](For-sales-10.png) ![My Image](For-sales-11.png)
 
 ###
 
