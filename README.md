@@ -102,6 +102,33 @@
 
 ###
 
+<h4 align="center">1.A Comprehensive Sales and Performance Dashboard - Data Analysis: In this analysis, #Power BI 💻 was used to analyze data 🎯 extracted from Kaggle, with the aim of studying sales performance and understanding customer behavior more deeply with track of sales Rep target.<br>This project aimed to transform raw data into interactive Power BI dashboards that provide a 360° view of sales and operational performance. It goes beyond basic sales tracking to uncover insights on profitability, customer behavior, regional performance, and product efficiency.<br>
+
+Project Highlights:
+Built 8 interactive dashboards covering sales, customers, products, regions, and representatives.
+
+Key metrics:
+Net Sales: 5.00M SAR (104.27% of target)
+Profit: 252K SAR (5.05% margin)
+Customers: 2.84K (50.4% new, 49.6% returning)
+Coverage: 4 regions (North, East, West, South)
+
+Advanced Insights:
+Time-series and geographic analysis to track trends and regional growth.
+Product and customer analysis to identify top-performing items and buying behavior.
+Decomposition Tree for detailed, step-by-step performance exploration.
+
+Business Value:
+Delivers a full performance overview across departments.
+Supports strategic decision-making with data-driven insights.
+Highlights strengths, growth opportunities, and customer loyalty trends.</h4>
+
+###
+
+![My Image](For-sales-1.png) ![My Image](For-sales-2.png) ![My Image](For-sales-3.png) 
+
+###
+
 <h4 align="center">1.Analyzing Sales, Customers, and Point of Sale Performance - Data Analysis: In this analysis, #Power BI 💻 was used to analyze data 🎯 extracted from Kaggle, with the aim of studying sales performance and understanding customer behavior more deeply.<br>Key findings included:<br>Category of customers by purchasing behavior and geography.
 Identification of the most selling and profitable product lines.
 Analyzing payment methods and financial performance of each branch.
