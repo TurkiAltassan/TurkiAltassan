@@ -129,7 +129,7 @@ Highlights strengths, growth opportunities, and customer loyalty trends.</h4>
 
 ###
 
-<h4 align="center">1.Analyzing Sales, Customers, and Point of Sale Performance - Data Analysis: In this analysis, #Power BI 💻 was used to analyze data 🎯 extracted from Kaggle, with the aim of studying sales performance and understanding customer behavior more deeply.<br>Key findings included:<br>Category of customers by purchasing behavior and geography.
+<h4 align="center">2.Analyzing Sales, Customers, and Point of Sale Performance - Data Analysis: In this analysis, #Power BI 💻 was used to analyze data 🎯 extracted from Kaggle, with the aim of studying sales performance and understanding customer behavior more deeply.<br>Key findings included:<br>Category of customers by purchasing behavior and geography.
 Identification of the most selling and profitable product lines.
 Analyzing payment methods and financial performance of each branch.
 This analysis helped provide clear insights to support strategic decision-making, such as improving membership programs, investing in the most in-demand products, and developing financial policies.</h4>
@@ -140,7 +140,7 @@ This analysis helped provide clear insights to support strategic decision-making
 
 ###
 
-<h4 align="center">2.Customer Performance Analysis for a Store Website - Data Analysis: The data was analyzed, cleaned, and organized using #SQL 🎯 through #BigQuery, and the results were visualized using #PowerBI 💻<br>This analysis project provides a comprehensive view of customer demographics, purchase preferences, and sales distribution across categories and brands, helping inform targeted marketing and product strategies.</h4>
+<h4 align="center">3.Customer Performance Analysis for a Store Website - Data Analysis: The data was analyzed, cleaned, and organized using #SQL 🎯 through #BigQuery, and the results were visualized using #PowerBI 💻<br>This analysis project provides a comprehensive view of customer demographics, purchase preferences, and sales distribution across categories and brands, helping inform targeted marketing and product strategies.</h4>
 
 ###
 
@@ -148,7 +148,7 @@ This analysis helped provide clear insights to support strategic decision-making
 
 ###
 
-<h4 align="center">3.Tharwa Bank – Data Analysis: We aimed to boost customer retention and reduce churn rate for Tharwa Bank. Using Google #BigQuery, #SQL 🎯, and #Looker Studio & #PowerBI, we performed data-driven analysis to enhance performance and engagement.</h4>
+<h4 align="center">4.Tharwa Bank – Data Analysis: We aimed to boost customer retention and reduce churn rate for Tharwa Bank. Using Google #BigQuery, #SQL 🎯, and #Looker Studio & #PowerBI, we performed data-driven analysis to enhance performance and engagement.</h4>
 
 ###
 
@@ -156,7 +156,7 @@ This analysis helped provide clear insights to support strategic decision-making
 
 ###
 
-<h4 align="center">4.Graduation Project: Graduation Project of Computer Science - was developed using #Python 🎯 with the tkinter<br>library for creating a graphical user interface. <br>The project's aim is to verify users based on their voices and different sound wave patterns.</h4>
+<h4 align="center">5.Graduation Project: Graduation Project of Computer Science - was developed using #Python 🎯 with the tkinter<br>library for creating a graphical user interface. <br>The project's aim is to verify users based on their voices and different sound wave patterns.</h4>
 
 ###
 
