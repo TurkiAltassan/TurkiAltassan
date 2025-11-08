@@ -74,11 +74,29 @@
 
 <h3 align="center">1️⃣ Comprehensive Sales & Performance Dashboard</h3>
 <p align="center">
-  <i>Tools: Power BI, Kaggle Data</i>
+  <i>Tools: Power BI, Excel, Kaggle Data</i>
 </p>
 <p align="center">
-  <b>Goal:</b> Study sales performance and customer behavior.<br>
-  Built 8 interactive dashboards with KPIs like Sales (5.00M SAR), Profit (252K SAR), Customers (2.84K), Coverage (4 regions).<br>
+  <b>Goal:</b> Study sales performance, customer behavior, Sales Rep Performance.<br>
+  This project aimed to transform raw data into interactive Power BI dashboards that provide a 360° view of sales and operational performance.<br>
+  Built 8 interactive dashboards covering sales, customers, products, regions, and representatives.
+
+Key metrics:
+Net Sales: 5.00M SAR (104.27% of target)
+Profit: 252K SAR (5.05% margin)
+Customers: 2.84K (50.4% new, 49.6% returning)
+Coverage: 4 regions (North, East, West, South)
+
+Advanced Insights:
+
+Time-series and geographic analysis to track trends and regional growth.
+Product and customer analysis to identify top-performing items and buying behavior.
+Decomposition Tree for detailed, step-by-step performance exploration.
+
+Business Value:
+Delivers a full performance overview across departments.
+Supports strategic decision-making with data-driven insights.
+Highlights strengths, growth opportunities, and customer loyalty trends.<br>
   Advanced time-series, geographic, and decomposition tree analysis for insights.
 </p>
 
