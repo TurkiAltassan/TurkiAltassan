@@ -1,10 +1,6 @@
 <!-- PROFILE HEADER -->
 <h1 align="center">Hi 👋, I'm <b>Turki Altasan</b> 🕵🏻‍♂️<br>Welcome to My Profile 🤩</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="280" />
-</p>
-
 ---
 
 <h2 align="center">🎓 Bachelor of Computer Science 🖥️</h2>
