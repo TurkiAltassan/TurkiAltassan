@@ -1,87 +1,38 @@
-<h1 align="left">
-👋 Hello! I'm <b>Turki Altasan</b>
-</h1>
+# 👋 Hello World! I'm Turki Altasan
 
-<h3 align="left">
-💡 <b>Data Analyst</b> | Skilled in Power BI, Tableau, SQL, Python, and Excel
-</h3>
-
-<p align="left">
+💡 **Data Analyst** | Skilled in Power BI, Tableau, SQL, Python, and Excel  
 🎯 Passionate about turning data into actionable insights
-</p>
 
-<br>
+I enjoy analyzing datasets, building interactive dashboards, and transforming raw data into meaningful insights using tools like **Python**, **SQL**, **Power BI**, and **Excel**.  
+My goal is to grow as a data analyst, contribute to impactful business decisions, and continuously improve my technical and analytical skills.
 
-<p align="left">
-I enjoy exploring datasets, cleaning and analyzing data, and building interactive dashboards
-that help businesses make better decisions using tools like <b>Python</b>, <b>SQL</b>,
-<b>Power BI</b>, and <b>Excel</b>.
-</p>
+---
 
-<p align="left">
-My goal is to grow as a data professional, contribute to impactful data-driven projects,
-and continuously develop my analytical and technical skills.
-</p>
+## 📌 Connect With Me
 
-###
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/turki-altasan)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)](https://github.com/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:altassanturki@gmail.com)
 
+---
 
-<h3 align="center">
-Specialized in <b>Data Analysis</b> 📊 • <b>Business Intelligence</b> 📈 • <b>Data Visualization</b> 🎯
-</h3>
+## 🚀 Skills & Technologies
 
-###
+### 📊 Data Analysis
 
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 
-<h5 align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</h5>
+### 📈 Visualization
 
-###
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau)
+![DAX](https://img.shields.io/badge/DAX-4479A1?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
-<h3 align="center">🛠️ Data Analysis Tools & Technologies</h3>
-
-###
-
-<h4 align="center">📊 Data & Business Intelligence</h4>
-
-<div align="center">
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="42" alt="excel"/>
-  <img width="14"/>
-  <img src="https://img.icons8.com/color/48/power-bi.png" height="42" alt="powerbi"/>
-  <img width="14"/>
-  <img src="https://img.icons8.com/color/48/tableau-software.png" height="42" alt="tableau"/>
-  <img width="14"/>
-  <img src="https://img.icons8.com/color/48/google-looker.png" height="42" alt="looker"/>
-</div>
-
-###
-
-<h4 align="center">🐍 Programming & Data</h4>
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
-</div>
-
-###
-
-<h4 align="center">⚙️ Other Tools</h4>
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40"/>
-</div>
-
-###
 
 <h5 align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</h5>
 
