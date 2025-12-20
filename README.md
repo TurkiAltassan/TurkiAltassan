@@ -155,7 +155,15 @@ This analysis project provides a comprehensive view of customer demographics, pu
 ###
 ---
 
-<h4 align="center">4.Tharwa Bank – Data Analysis: We aimed to boost customer retention and reduce churn rate for Tharwa Bank. Using Google #BigQuery, #SQL 🎯, and #Looker Studio & #PowerBI, we performed data-driven analysis to enhance performance and engagement.</h4>
+<h2 align="center">4. Tharwa Bank – Data Analysis</h2>
+<p align="center">
+We aimed to boost customer retention and reduce churn rate for Tharwa Bank. Using 
+<strong style="font-size:18px;">Google #BigQuery</strong>, 
+<strong style="font-size:18px;">#SQL 🎯</strong>, and 
+<strong style="font-size:18px;">#Looker Studio</strong> & 
+<strong style="font-size:18px;">#Power BI 💻</strong>, 
+we performed data-driven analysis to enhance performance and engagement.
+</p>
 
 ###
 
