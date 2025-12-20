@@ -172,7 +172,16 @@ we performed data-driven analysis to enhance performance and engagement.
 ###
 ---
 
-<h4 align="center">5.Graduation Project: Graduation Project of Computer Science - was developed using #Python 🎯 with the tkinter<br>library for creating a graphical user interface. <br>The project's aim is to verify users based on their voices and different sound wave patterns.</h4>
+<h2 align="center">5. Graduation Project: Computer Science</h2>
+<p align="center">
+Graduation Project was developed using 
+<strong style="font-size:18px;">#Python 🎯</strong> with the <strong>tkinter</strong> library for creating a graphical user interface.
+</p>
+
+<h3>Project Aim:</h3>
+<p>
+The project's aim is to verify users based on their voices and different sound wave patterns.
+</p>
 
 ###
 
