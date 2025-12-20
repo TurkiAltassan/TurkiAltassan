@@ -71,26 +71,38 @@ My goal is to grow as a data analyst, contribute to impactful business decisions
 
 ###
 
-<h4 align="center">1.A Comprehensive Sales and Performance Dashboard - Data Analysis: In this analysis, #Power BI 💻 was used to analyze data 🎯 extracted from Kaggle, with the aim of studying sales performance and understanding customer behavior more deeply with track of sales Rep target.<br>This project aimed to transform raw data into interactive Power BI dashboards that provide a 360° view of sales and operational performance. It goes beyond basic sales tracking to uncover insights on profitability, customer behavior, regional performance, and product efficiency.<br>
+<h2 align="center">1. A Comprehensive Sales and Performance Dashboard - Data Analysis</h2>
+<p align="center">
+In this analysis, <strong style="font-size:18px;">#Power BI 💻</strong> was used to analyze data 🎯 extracted from Kaggle, with the aim of studying sales performance and understanding customer behavior more deeply with track of sales Rep target.<br>
+This project aimed to transform raw data into interactive Power BI dashboards that provide a 360° view of sales and operational performance. It goes beyond basic sales tracking to uncover insights on profitability, customer behavior, regional performance, and product efficiency.
+</p>
 
-Project Highlights:
-Built 8 interactive dashboards covering sales, customers, products, regions, and representatives.
+<h3>Project Highlights:</h3>
+<ul>
+<li>Built 8 interactive dashboards covering sales, customers, products, regions, and representatives.</li>
+</ul>
 
-Key metrics:
-Net Sales: 5.00M SAR (104.27% of target)
-Profit: 252K SAR (5.05% margin)
-Customers: 2.84K (50.4% new, 49.6% returning)
-Coverage: 4 regions (North, East, West, South)
+<h3>Key Metrics:</h3>
+<ul>
+<li>Net Sales: 5.00M SAR (104.27% of target)</li>
+<li>Profit: 252K SAR (5.05% margin)</li>
+<li>Customers: 2.84K (50.4% new, 49.6% returning)</li>
+<li>Coverage: 4 regions (North, East, West, South)</li>
+</ul>
 
-Advanced Insights:
-Time-series and geographic analysis to track trends and regional growth.
-Product and customer analysis to identify top-performing items and buying behavior.
-Decomposition Tree for detailed, step-by-step performance exploration.
+<h3>Advanced Insights:</h3>
+<ul>
+<li>Time-series and geographic analysis to track trends and regional growth.</li>
+<li>Product and customer analysis to identify top-performing items and buying behavior.</li>
+<li>Decomposition Tree for detailed, step-by-step performance exploration.</li>
+</ul>
 
-Business Value:
-Delivers a full performance overview across departments.
-Supports strategic decision-making with data-driven insights.
-Highlights strengths, growth opportunities, and customer loyalty trends.</h4>
+<h3>Business Value:</h3>
+<ul>
+<li>Delivers a full performance overview across departments.</li>
+<li>Supports strategic decision-making with data-driven insights.</li>
+<li>Highlights strengths, growth opportunities, and customer loyalty trends.</li>
+</ul>
 
 ###
 
