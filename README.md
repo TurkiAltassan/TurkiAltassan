@@ -33,7 +33,7 @@ My goal is to grow as a data analyst, contribute to impactful business decisions
 
 ###
 
-• Data Cleaning. • SQL & Python & Excel. • Data Visualization. • Power BI & Tableau. • Data Analysis. • Programming (Java, C#, C++). <br> • Statistical Analysis. • Project Management. • Microsoft Office. • Critical Thinking • Responsibility. • Teamwork. • Problem Solving. • Hard Work.
+• Data Cleaning. • Data Visualization. • Data Analysis. • Programming (Java, C#, C++) • Statistical Analysis. <br> • Project Management. • Microsoft Office. • Critical Thinking • Responsibility. • Teamwork. • Problem Solving. • Hard Work.
 
 ###
 
@@ -41,11 +41,10 @@ My goal is to grow as a data analyst, contribute to impactful business decisions
 
 ###
 
-<h3 align="center">"Connect with Me 📩"</h3>
+## Connect with Me 📩
 
 ###
 
-<div align="center">
   <a href="mailto:altassanturki@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
@@ -55,7 +54,6 @@ My goal is to grow as a data analyst, contribute to impactful business decisions
   <a href="https://wa.me/966554763478" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
-</div>
 
 ###
 
@@ -99,6 +97,7 @@ Highlights strengths, growth opportunities, and customer loyalty trends.</h4>
 ![My Image](For-sales-4.png) ![My Image](For-sales-5.png) ![My Image](For-sales-6.png) ![My Image](For-sales-7.png) ![My Image](For-sales-8.png) ![My Image](For-sales-9.png) ![My Image](For-sales-10.png) ![My Image](For-sales-11.png)
 
 ###
+---
 
 <h4 align="center">2.Analyzing Sales, Customers, and Point of Sale Performance - Data Analysis: In this analysis, #Power BI 💻 was used to analyze data 🎯 extracted from Kaggle, with the aim of studying sales performance and understanding customer behavior more deeply.<br>Key findings included:<br>Category of customers by purchasing behavior and geography.
 Identification of the most selling and profitable product lines.
