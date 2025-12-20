@@ -1,4 +1,4 @@
-# 👋 Hello World! I'm Turki Altasan
+# 👋 Hi, I'm Turki Altasan
 
 💡 **Data Analyst** | Skilled in **SQL**, **Python**, **Excel**, **Power BI**, **Tableau**, and **Looker**  
 🎯 Passionate about turning data into actionable insights
