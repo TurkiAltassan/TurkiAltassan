@@ -1,12 +1,17 @@
 # 👋 Hello World! I'm Turki Altasan
 
-💡 **Data Analyst** | Skilled in Power BI, Tableau, SQL, Python, and Excel  
-🎯 Passionate about turning data into actionable insights
+💡 **Data Analyst** | Skilled in **SQL**, **Python**, **Excel**, **Power BI**, **Tableau**, and **Looker**.
+🎯 Passionate about turning data into actionable insights.
 
-I enjoy analyzing datasets, building interactive dashboards, and transforming raw data into meaningful insights using tools like **Python**, **SQL**, **Power BI**, and **Excel**.  
+I enjoy analyzing datasets, building interactive dashboards, and transforming raw data into meaningful insights using tools like Python, SQL, Power BI, and Excel.  
 My goal is to grow as a data analyst, contribute to impactful business decisions, and continuously improve my technical and analytical skills.
 
 ---
+###
+
+<h5 align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</h5>
+
+###
 
 ## 📌 Connect With Me
 
@@ -30,6 +35,7 @@ My goal is to grow as a data analyst, contribute to impactful business decisions
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-4479A1?style=for-the-badge)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
