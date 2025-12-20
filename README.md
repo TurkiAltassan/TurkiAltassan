@@ -1,23 +1,26 @@
 <h1 align="left">
-Hi 👋, I'm <b>Turki Altasan</b> 🕵🏻‍♂️ <br>
-<b>Data Analyst</b> 📊 | Turning Data into Insights
+Hi 👋, I'm <b>Turki Altasan</b>
 </h1>
 
 ###
 
-<h2 align="center">🎓 Bachelor of Computer Science 🖥️</h2>
+<h3 align="left">
+💡 <b>Data Analyst</b> | Skilled in Power BI, Tableau, SQL, Python, and Excel<br>
+🎯 Passionate about turning data into actionable insights
+</h3>
 
 ###
 
-<h3 align="center">Specialized in:</h3>
+<h2 align="center">🎓 Bachelor of Computer Science </h2>
 
 ###
 
 <h3 align="center">
-Data Analysis 📊 • Business Intelligence 📈 • Data Visualization 🎯
+Specialized in <b>Data Analysis</b> 📊 • <b>Business Intelligence</b> 📈 • <b>Data Visualization</b> 🎯
 </h3>
 
 ###
+
 
 <h5 align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</h5>
 
