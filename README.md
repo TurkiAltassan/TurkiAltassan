@@ -29,15 +29,15 @@ My goal is to grow as a data analyst, contribute to impactful business decisions
 ---
 
 
-<h3 align="center">SKILLS 🤹🏼</h3>
+## SKILLS 🤹🏼
 
 ###
 
-<h4 align="center">• Data Cleaning. • SQL & Python & Excel. • Data Visualization. • Power BI & Tableau. • Data Analysis. • Programming (Java, C#, C++). <br> • Statistical Analysis. • Project Management. • Microsoft Office. • Critical Thinking • Responsibility. • Teamwork. • Problem Solving. • Hard Work.</h4>
+• Data Cleaning. • SQL & Python & Excel. • Data Visualization. • Power BI & Tableau. • Data Analysis. • Programming (Java, C#, C++). <br> • Statistical Analysis. • Project Management. • Microsoft Office. • Critical Thinking • Responsibility. • Teamwork. • Problem Solving. • Hard Work.
 
 ###
 
-<h5 align="center">____________________________________________________________________________________________________________________</h5>
+---
 
 ###
 
@@ -59,7 +59,7 @@ My goal is to grow as a data analyst, contribute to impactful business decisions
 
 ###
 
-<h5 align="center">____________________________________________________________________________________________________________________</h5>
+---
 
 ###
 
@@ -110,6 +110,7 @@ This analysis helped provide clear insights to support strategic decision-making
 ![My Image](For-sales-1.png) ![My Image](For-sales-2.png) ![My Image](For-sales-3.png) 
 
 ###
+---
 
 <h4 align="center">3.Customer Performance Analysis for a Store Website - Data Analysis: The data was analyzed, cleaned, and organized using #SQL 🎯 through #BigQuery, and the results were visualized using #PowerBI 💻<br>This analysis project provides a comprehensive view of customer demographics, purchase preferences, and sales distribution across categories and brands, helping inform targeted marketing and product strategies.</h4>
 
@@ -118,6 +119,7 @@ This analysis helped provide clear insights to support strategic decision-making
 ![My Image](pixelcut-export.png)
 
 ###
+---
 
 <h4 align="center">4.Tharwa Bank – Data Analysis: We aimed to boost customer retention and reduce churn rate for Tharwa Bank. Using Google #BigQuery, #SQL 🎯, and #Looker Studio & #PowerBI, we performed data-driven analysis to enhance performance and engagement.</h4>
 
@@ -126,6 +128,7 @@ This analysis helped provide clear insights to support strategic decision-making
 ![My Image](pic1.png) ![My Image](pic2.png) ![My Image](pic3.png) 
 
 ###
+---
 
 <h4 align="center">5.Graduation Project: Graduation Project of Computer Science - was developed using #Python 🎯 with the tkinter<br>library for creating a graphical user interface. <br>The project's aim is to verify users based on their voices and different sound wave patterns.</h4>
 
@@ -135,7 +138,7 @@ This analysis helped provide clear insights to support strategic decision-making
 
 ###
 
-<h5 align="center">____________________________________________________________________________________________________________________</h5>
+---
 
 ###
 
@@ -168,6 +171,7 @@ This analysis helped provide clear insights to support strategic decision-making
 <h4 align="center">☑️Membership Category: Specialist<br>Specialization: Computer Science.<br>Membership number: 1009484<br>By Saudi Council of Engineers.</h4>
 
 ###
+---
 
 <h1 align="center">Thank you for visiting! 🤍</h1>
 
