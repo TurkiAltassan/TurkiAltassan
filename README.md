@@ -135,7 +135,18 @@ This analysis helped provide clear insights to support strategic decision-making
 ###
 ---
 
-<h4 align="center">3.Customer Performance Analysis for a Store Website - Data Analysis: The data was analyzed, cleaned, and organized using #SQL 🎯 through #BigQuery, and the results were visualized using #PowerBI 💻<br>This analysis project provides a comprehensive view of customer demographics, purchase preferences, and sales distribution across categories and brands, helping inform targeted marketing and product strategies.</h4>
+<h2 align="center">3. Customer Performance Analysis for a Store Website - Data Analysis</h2>
+<p align="center">
+The data was analyzed, cleaned, and organized using 
+<strong style="font-size:18px;">#SQL 🎯</strong> through 
+<strong style="font-size:18px;">#BigQuery</strong>, and the results were visualized using 
+<strong style="font-size:18px;">#Power BI 💻</strong>.
+</p>
+
+<h3>Project Overview:</h3>
+<p>
+This analysis project provides a comprehensive view of customer demographics, purchase preferences, and sales distribution across categories and brands, helping inform targeted marketing and product strategies.
+</p>
 
 ###
 
