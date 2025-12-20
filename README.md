@@ -1,19 +1,30 @@
 <h1 align="left">
-Hi 👋, I'm <b>Turki Altasan</b>
+👋 Hello! I'm <b>Turki Altasan</b>
 </h1>
 
-###
-
 <h3 align="left">
-💡 <b>Data Analyst</b> | Skilled in Power BI, Tableau, SQL, Python, and Excel<br>
-🎯 Passionate about turning data into actionable insights
+💡 <b>Data Analyst</b> | Skilled in Power BI, Tableau, SQL, Python, and Excel
 </h3>
 
+<p align="left">
+🎯 Passionate about turning data into actionable insights
+</p>
+
+<br>
+
+<p align="left">
+I enjoy exploring datasets, cleaning and analyzing data, and building interactive dashboards
+that help businesses make better decisions using tools like <b>Python</b>, <b>SQL</b>,
+<b>Power BI</b>, and <b>Excel</b>.
+</p>
+
+<p align="left">
+My goal is to grow as a data professional, contribute to impactful data-driven projects,
+and continuously develop my analytical and technical skills.
+</p>
+
 ###
 
-<h2 align="center">🎓 Bachelor of Computer Science </h2>
-
-###
 
 <h3 align="center">
 Specialized in <b>Data Analysis</b> 📊 • <b>Business Intelligence</b> 📈 • <b>Data Visualization</b> 🎯
