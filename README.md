@@ -33,7 +33,7 @@ My goal is to grow as a data analyst, contribute to impactful business decisions
 
 ###
 
-• Data Cleaning. • Data Visualization. • Data Analysis. • Programming (Java, C#, C++). • Statistical Analysis. <br> • Analytical Thinking. • Critical Thinking. • Project Management. • Microsoft Office. • Problem Solving. • Responsibility. • Teamwork.
+• Data Cleaning. • Data Visualization. • Data Analysis. • Programming (Java, C#, C++). • Statistical Analysis. <br> • Analytical Thinking. • Critical Thinking. • Teamwork. • Project Management. • Microsoft Office. • Responsibility. • Problem Solving.
 
 ###
 
