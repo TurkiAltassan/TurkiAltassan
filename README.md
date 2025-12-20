@@ -61,7 +61,7 @@ My goal is to grow as a data analyst, contribute to impactful business decisions
 
 ###
 
-<h2 align="center">Highlights of my Data Analysis Projects:</h2>
+<h2 align="center">✨ Highlights of my Data Analysis Projects:</h2>
 
 ###
 
@@ -203,7 +203,7 @@ The project's aim is to verify users based on their voices and different sound w
 
 ###
 
-<h4 align="center">🗂️ BootCamp:<br>☑️Data Analysis.<br>By [Saudi Digital Academy (SDA) & Le Wagon]<br>Tools we use: Google BigQuery & Tableau & Power BI & Zapier & dbt & Git & APIs & Google Analytics & Google Tag Manager<br>Graduated at: 05/2024</h4>
+<h4 align="center">🗂️ BootCamp:<br>☑️Data Analysis.<br>By [Saudi Digital Academy (SDA) & Le Wagon]<br>Tools we use: SQL & Python & Excel & Google BigQuery & Tableau & Power BI & Looker & Zapier & dbt & Git & APIs & Google Analytics & Google Tag Manager<br>Graduated at: 05/2024</h4>
 
 ###
 
