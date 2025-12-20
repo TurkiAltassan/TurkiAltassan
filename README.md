@@ -1,23 +1,10 @@
 # 👋 Hello World! I'm Turki Altasan
 
-💡 **Data Analyst** | Skilled in **SQL**, **Python**, **Excel**, **Power BI**, **Tableau**, and **Looker**.
-🎯 Passionate about turning data into actionable insights.
+💡 **Data Analyst** | Skilled in **SQL**, **Python**, **Excel**, **Power BI**, **Tableau**, and **Looker**  
+🎯 Passionate about turning data into actionable insights
 
-I enjoy analyzing datasets, building interactive dashboards, and transforming raw data into meaningful insights using tools like Python, SQL, Power BI, and Excel.  
+I enjoy analyzing datasets, building interactive dashboards, and transforming raw data into meaningful insights using tools like **Python**, **SQL**, **Power BI**, and **Excel**.  
 My goal is to grow as a data analyst, contribute to impactful business decisions, and continuously improve my technical and analytical skills.
-
----
-###
-
-<h5 align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</h5>
-
-###
-
-## 📌 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/turki-altasan)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)](https://github.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:altassanturki@gmail.com)
 
 ---
 
@@ -39,8 +26,7 @@ My goal is to grow as a data analyst, contribute to impactful business decisions
 ![DAX](https://img.shields.io/badge/DAX-4479A1?style=for-the-badge)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
-
-<h5 align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</h5>
+---
 
 ###
 
