@@ -71,7 +71,60 @@ My goal is to grow as a data analyst, contribute to impactful business decisions
 
 ###
 
-<h2 align="center">1. A Comprehensive Sales and Performance Dashboard - Data Analysis</h2>
+<h2 align="center">1. Sales & Performance Analytics Dashboard - Power BI Project</h2>
+
+<p align="center">
+In this project, <strong style="font-size:18px;">Power BI 💻</strong> was used to analyze a comprehensive sales dataset 🎯, with the goal of evaluating business performance, tracking KPIs, and gaining deeper insights into customer behavior and profitability.<br><br>
+
+The solution transforms raw data into interactive dashboards that provide a 360° view of the business, covering sales, customers, products, regions, and sales channels. It enables dynamic analysis of key metrics such as Net Sales, Gross Profit, Profit Margin, and target achievement.<br><br>
+
+Beyond standard reporting, the project delivers advanced insights into returning vs new customers, regional performance differences, product category efficiency, and sales channel contribution—supporting better, data-driven decision-making.
+</p>
+
+<h3>Project Highlights:</h3>
+<ul>
+<li>Developed a suite of interactive dashboards covering Sales, Customers, General Performance, Products, Regions, and Channels.</li>
+<li>Enabled dynamic filtering across customer type, segment, region, product category, and time.</li>
+</ul>
+
+<h3>Key Metrics:</h3>
+<ul>
+<li>Net Sales: 5.12M SAR</li>
+<li>Gross Profit: 1.87M SAR</li>
+<li>Gross Profit Margin: 36.60%</li>
+<li>Total Customers: 212</li>
+<li>Invoices: 2.89K | Quantity Sold: 11K</li>
+<li>Coverage: 4 Regions | 9 Product Categories</li>
+</ul>
+
+<h3>Advanced Insights:</h3>
+<ul>
+<li>Time-series analysis comparing Net Sales vs. Gross Profit with monthly trends and target tracking.</li>
+<li>Customer segmentation (New vs Returning) with profitability comparison and behavioral insights.</li>
+<li>Regional performance analysis highlighting variations in sales and profit across Midwest, Northeast, South, and West.</li>
+<li>Product category analysis identifying top-performing and low-performing categories based on sales and margin.</li>
+<li>Sales channel analysis (Online, Retail, Direct) to evaluate contribution to revenue and profitability.</li>
+</ul>
+
+<h3>Business Value:</h3>
+<ul>
+<li>Provides a comprehensive view of business performance across multiple dimensions.</li>
+<li>Enhances decision-making through clear KPI tracking and target comparison.</li>
+<li>Identifies growth opportunities across regions, products, and customer segments.</li>
+<li>Improves understanding of customer behavior, especially returning vs new customers.</li>
+</ul>
+
+<p><strong>Note:</strong> This project is still in progress. Additional pages and features are currently under development.</p>
+
+###
+
+![My Image](For-sales-4.png) ![My Image](For-sales-5.png) ![My Image](For-sales-6.png) ![My Image](For-sales-7.png) ![My Image](For-sales-8.png) ![My Image](For-sales-9.png) ![My Image](For-sales-10.png) ![My Image](For-sales-11.png)
+
+###
+---
+
+
+<h2 align="center">2. A Comprehensive Sales and Performance Dashboard - Data Analysis</h2>
 <p align="center">
 In this analysis, <strong style="font-size:18px;">#Power BI 💻</strong> was used to analyze data 🎯 extracted from Kaggle, with the aim of studying sales performance and understanding customer behavior more deeply with track of sales Rep target.<br>
 This project aimed to transform raw data into interactive Power BI dashboards that provide a 360° view of sales and operational performance. It goes beyond basic sales tracking to uncover insights on profitability, customer behavior, regional performance, and product efficiency.
@@ -106,12 +159,12 @@ This project aimed to transform raw data into interactive Power BI dashboards th
 
 ###
 
-![My Image](For-sales-4.png) ![My Image](For-sales-5.png) ![My Image](For-sales-6.png) ![My Image](For-sales-7.png) ![My Image](For-sales-8.png) ![My Image](For-sales-9.png) ![My Image](For-sales-10.png) ![My Image](For-sales-11.png)
+![My Image](For-sales-12.png) ![My Image](For-sales-13.png) ![My Image](For-sales-14.png)
 
 ###
 ---
 
-<h2 align="center">2. Analyzing Sales, Customers, and Point of Sale Performance - Data Analysis</h2>
+<h2 align="center">3. Analyzing Sales, Customers, and Point of Sale Performance - Data Analysis</h2>
 <p align="center">
 In this analysis, <strong style="font-size:18px;">#Power BI 💻</strong> was used to analyze data 🎯 extracted from Kaggle, with the aim of studying sales performance and understanding customer behavior more deeply.
 </p>
@@ -135,7 +188,7 @@ This analysis helped provide clear insights to support strategic decision-making
 ###
 ---
 
-<h2 align="center">3. Customer Performance Analysis for a Store Website - Data Analysis</h2>
+<h2 align="center">4. Customer Performance Analysis for a Store Website - Data Analysis</h2>
 <p align="center">
 The data was analyzed, cleaned, and organized using 
 <strong style="font-size:18px;">#SQL 🎯</strong> through 
@@ -155,7 +208,7 @@ This analysis project provides a comprehensive view of customer demographics, pu
 ###
 ---
 
-<h2 align="center">4. Tharwa Bank – Data Analysis</h2>
+<h2 align="center">5. Tharwa Bank – Data Analysis</h2>
 <p align="center">
 We aimed to boost customer retention and reduce churn rate for Tharwa Bank. Using 
 <strong style="font-size:18px;">Google #BigQuery</strong>, 
@@ -172,7 +225,7 @@ we performed data-driven analysis to enhance performance and engagement.
 ###
 ---
 
-<h2 align="center">5. Graduation Project: Computer Science</h2>
+<h2 align="center">6. Graduation Project: Computer Science</h2>
 <p align="center">
 Graduation Project was developed using 
 <strong style="font-size:18px;">#Python 🎯</strong> with the <strong>tkinter</strong> library for creating a graphical user interface.
