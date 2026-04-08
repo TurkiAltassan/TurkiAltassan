@@ -112,7 +112,7 @@ This project aimed to transform raw data into interactive Power BI dashboards th
 
 ###
 
-![My Image](For-sales-12.png) ![My Image](For-sales-13.png) ![My Image](For-sales-14.png)
+![My Image](For-sales-14.png) ![My Image](For-sales-13.png) ![My Image](For-sales-12.png)
 
 ###
 
