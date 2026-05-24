@@ -72,43 +72,47 @@ My goal is to grow as a data analyst, contribute to impactful business decisions
 ###
 ---
 
-<h2 align="center">1. Sales & Performance Analytics Dashboard - Data Analysis</h2>
+<h2 align="center">1. Business Intelligence Dashboard - Data Analysis</h2>
 <p align="center">
-In this analysis, <strong style="font-size:18px;">#Power BI 💻</strong> was used to analyze a comprehensive sales dataset 🎯, with the aim of evaluating business performance, tracking KPIs, and understanding customer behavior more deeply including returning vs new customers and overall profitability.<br>
-This project aimed to transform raw data into interactive Power BI dashboards that provide a 360° view of sales and operational performance. It goes beyond basic sales tracking to uncover insights on profitability, customer behavior, regional performance, product categories, and sales channels—enabling faster and more informed decision-making.
+In this analysis, <strong style="font-size:18px;">#Power BI 💻</strong> was used to build a complete business intelligence solution designed to deliver a 360° analytical view across the entire sales cycle 🎯 — from overall business performance to customer behavior, product profitability, and sales rep effectiveness.<br>
+
+This project transformed raw sales data into interactive Power BI dashboards that provide clear, actionable insights to support faster decision-making, performance optimization, and smarter business strategies. The solution combines executive-level KPIs, profitability analysis, customer segmentation, target tracking, regional and category comparisons, product contribution analysis, and sales representative performance monitoring into one integrated reporting experience.
 </p>
 
 <h3>Project Highlights:</h3>
 <ul>
-<li>Developed a suite of interactive dashboards covering Sales, Customers, General Performance, Products, Regions, and Channels.</li>
+<li>Developed a suite of interactive dashboards covering Sales, Customers, General Performance, Products, Regions, Channels, and Sales Representatives.</li>
+<li>Built dynamic drill-down experiences to enable deeper business analysis and performance exploration.</li>
+<li>Integrated profitability, target tracking, and growth trend analysis into a centralized reporting solution.</li>
 </ul>
 
 <h3>Key Metrics:</h3>
 <ul>
 <li>Net Sales: 5.12M SAR</li>
 <li>Gross Profit: 1.87M SAR (36.60% margin)</li>
-<li>Customers: 212 (New vs Returning analysis included)</li>
+<li>Customers: 212 (including New vs Returning customer analysis)</li>
 <li>Coverage: 4 regions | 9 product categories</li>
 </ul>
 
 <h3>Advanced Insights:</h3>
 <ul>
-<li>Time-series and target analysis to track monthly performance trends (Sales vs Profit) and highlight performance gaps.</li>
-<li>Customer analysis focusing on returning vs new customers to evaluate retention and profitability impact.</li>
-<li>Regional performance comparison across Midwest, Northeast, South, and West to identify high and low-performing areas.</li>
-<li>Product category analysis to uncover top-performing categories and underperforming segments.</li>
-<li>Sales channel analysis (Online, Retail, Direct) to measure contribution to revenue and profitability.</li>
+<li>Time-series and target analysis to monitor monthly sales and profitability trends while identifying performance gaps.</li>
+<li>Customer behavior and segmentation analysis focusing on retention, purchasing patterns, and profitability impact.</li>
+<li>Product contribution and category performance analysis to identify top-performing and underperforming segments.</li>
+<li>Regional and category-level comparisons to evaluate business performance across different markets.</li>
+<li>Sales channel analysis (Online, Retail, Direct) to measure revenue contribution and profitability.</li>
+<li>Sales representative performance evaluation including growth trends, target achievement, and contribution analysis.</li>
+<li>Gross profit and margin analysis to uncover operational efficiency and profitability opportunities.</li>
 </ul>
 
 <h3>Business Value:</h3>
 <ul>
-<li>Delivers a centralized and clear view of business performance across multiple dimensions.</li>
-<li>Improves decision-making speed through real-time KPI tracking and target comparison.</li>
-<li>Identifies revenue growth opportunities and optimization areas across regions, products, and channels.</li>
-<li>Enhances visibility into customer behavior, supporting better retention and targeting strategies.</li>
+<li>Delivers a centralized 360° view of business performance across multiple dimensions.</li>
+<li>Improves decision-making speed through interactive KPI tracking and target comparison.</li>
+<li>Identifies revenue growth opportunities and optimization areas across customers, regions, products, and channels.</li>
+<li>Enhances visibility into customer behavior, supporting stronger retention and segmentation strategies.</li>
+<li>Provides executive-level insights that support data-driven business planning and performance management.</li>
 </ul>
-
-<p><strong>Note:</strong> This project is still in progress. Additional pages and features are currently under development.</p>
 
 ###
 
