@@ -261,7 +261,7 @@ Customer churn directly impacts revenue, growth, and customer lifetime value. Th
 
 <h3>Methodology:</h3>
 <ul>
-<li>Churn rates measures the number of customers leaving the business within a specific timeframe, are pivotal metrics we're actively working to optimize.</li>
+<li>Customer churn rate measures the percentage of customers who leave a bank's services within a specific timeframe, making it a critical metric for evaluating customer retention.</li>
 <li>Collected and explored customer activity and transaction data.</li>
 <li>Cleaned and transformed datasets using SQL and BigQuery.</li>
 <li>Analyzed customer engagement, transaction behavior, and account activity.</li>
