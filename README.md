@@ -86,6 +86,12 @@ This project transformed raw sales data into interactive Power BI dashboards tha
 <li>Integrated profitability, target tracking, and growth trend analysis into a centralized reporting solution.</li>
 </ul>
 
+<h3>Tools & Technologies:</h3>
+<ul>
+<li>Excel</li>
+<li>Power BI</li>
+</ul>
+
 <h3>Key Metrics:</h3>
 <ul>
 <li>Net Sales: 5.12M SAR</li>
@@ -134,6 +140,12 @@ This project aimed to transform raw data into interactive Power BI dashboards th
 <li>Built 8 interactive dashboards covering sales, customers, products, regions, and representatives.</li>
 </ul>
 
+<h3>Tools & Technologies:</h3>
+<ul>
+<li>Excel</li>
+<li>Power BI</li>
+</ul>
+
 <h3>Key Metrics:</h3>
 <ul>
 <li>Net Sales: 5.00M SAR (104.27% of target)</li>
@@ -175,6 +187,12 @@ In this analysis, <strong style="font-size:18px;">#Power BI 💻</strong> was us
 <li>Analyzing payment methods and financial performance of each branch.</li>
 </ul>
 
+<h3>Tools & Technologies:</h3>
+<ul>
+<li>Excel</li>
+<li>Power BI</li>
+</ul>
+
 <h3>Business Value:</h3>
 <p>
 This analysis helped provide clear insights to support strategic decision-making, such as improving membership programs, investing in the most in-demand products, and developing financial policies.
@@ -199,6 +217,13 @@ The data was analyzed, cleaned, and organized using
 <p>
 This analysis project provides a comprehensive view of customer demographics, purchase preferences, and sales distribution across categories and brands, helping inform targeted marketing and product strategies.
 </p>
+
+<h3>Tools & Technologies:</h3>
+<ul>
+<li>SQL</li>
+<li>BigQuery</li>
+<li>Power BI</li>
+</ul>
 
 ###
 
@@ -227,9 +252,7 @@ Customer churn directly impacts revenue, growth, and customer lifetime value. Th
 </p>
 <h3>Tools & Technologies</h3>
 <p>
-SQL
-Google BigQuery
-Looker Studio
+SQL, Google BigQuery, Looker Studio
 </p>
 <h3>Methodology:</h3>
 <p>
