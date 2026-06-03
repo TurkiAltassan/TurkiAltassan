@@ -246,29 +246,36 @@ we performed data-driven analysis to enhance performance and engagement.
 <p>
 Customer retention is one of the most critical challenges in the banking industry. In this project, we analyzed customer behavior and engagement data for Tharwa Bank to understand the factors contributing to customer churn and identify opportunities to improve retention.
 </p>
+
 <h3>Business Problem:</h3>
 <p>
 Customer churn directly impacts revenue, growth, and customer lifetime value. The objective of this project was to identify behavioral patterns associated with churn, uncover key risk indicators, and provide data-driven recommendations to support customer retention strategies.
 </p>
-<h3>Tools & Technologies</h3>
-<p>
-SQL, Google BigQuery, Looker Studio
-</p>
+
+<h3>Tools & Technologies:</h3>
+<ul>
+<li>SQL</li>
+<li>Google BigQuery</li>
+<li>Looker Studio</li>
+</ul>
+
 <h3>Methodology:</h3>
-<p>
-Collected and explored customer activity and transaction data.
-Cleaned and transformed datasets using SQL and BigQuery.
-Analyzed customer engagement, transaction behavior, and account activity.
-Identified churn trends and behavioral patterns among customers.
-Created interactive dashboards in Looker Studio to visualize key retention and churn metrics.
-</p>
+<ul>
+<li>Collected and explored customer activity and transaction data.</li>
+<li>Cleaned and transformed datasets using SQL and BigQuery.</li>
+<li>Analyzed customer engagement, transaction behavior, and account activity.</li>
+<li>Identified churn trends and behavioral patterns among customers.</li>
+<li>Created interactive dashboards in Looker Studio to visualize key retention and churn metrics.</li>
+</ul>
+
 <h3>Key Outcomes:</h3>
-<p>
-Identified customer segments with higher churn risk.
-Uncovered behavioral indicators associated with customer attrition.
-Provided actionable insights to support retention initiatives and improve customer engagement.
-Developed executive dashboards for continuous monitoring of churn-related KPIs.
-</p>
+<ul>
+<li>Identified customer segments with higher churn risk.</li>
+<li>Uncovered behavioral indicators associated with customer attrition.</li>
+<li>Provided actionable insights to support retention initiatives and improve customer engagement.</li>
+<li>Developed executive dashboards for continuous monitoring of churn-related KPIs.</li>
+</ul>
+
 <h3>Project Goal:</h3>
 <p>
 The ultimate goal of this project was to leverage data analytics to help Tharwa Bank better understand customer behavior, reduce churn rates, and support long-term business growth through improved customer retention.
