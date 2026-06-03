@@ -261,6 +261,7 @@ Customer churn directly impacts revenue, growth, and customer lifetime value. Th
 
 <h3>Methodology:</h3>
 <ul>
+<li>Churn rates measures the number of customers leaving the business within a specific timeframe, are pivotal metrics we're actively working to optimize.</li>
 <li>Collected and explored customer activity and transaction data.</li>
 <li>Cleaned and transformed datasets using SQL and BigQuery.</li>
 <li>Analyzed customer engagement, transaction behavior, and account activity.</li>
