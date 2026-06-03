@@ -247,6 +247,9 @@ we performed data-driven analysis to enhance performance and engagement.
 Customer retention is one of the most critical challenges in the banking industry. In this project, we analyzed customer behavior and engagement data for Tharwa Bank to understand the factors contributing to customer churn and identify opportunities to improve retention.
 </p>
 
+<h3>Explanation:</h3>
+Customer churn rate measures the percentage of customers who leave a bank's services within a specific timeframe, making it a critical metric for evaluating customer retention.
+
 <h3>Business Problem:</h3>
 <p>
 Customer churn directly impacts revenue, growth, and customer lifetime value. The objective of this project was to identify behavioral patterns associated with churn, uncover key risk indicators, and provide data-driven recommendations to support customer retention strategies.
@@ -261,7 +264,6 @@ Customer churn directly impacts revenue, growth, and customer lifetime value. Th
 
 <h3>Methodology:</h3>
 <ul>
-<li>Customer churn rate measures the percentage of customers who leave a bank's services within a specific timeframe, making it a critical metric for evaluating customer retention.</li>
 <li>Collected and explored customer activity and transaction data.</li>
 <li>Cleaned and transformed datasets using SQL and BigQuery.</li>
 <li>Analyzed customer engagement, transaction behavior, and account activity.</li>
