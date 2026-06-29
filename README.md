@@ -206,23 +206,46 @@ This analysis helped provide clear insights to support strategic decision-making
 ---
 
 <h2 align="center">4. Customer Performance Analysis for a Store Website - Data Analysis</h2>
+
 <p align="center">
-The data was analyzed, cleaned, and organized using 
-<strong style="font-size:18px;">#SQL 🎯</strong> through 
-<strong style="font-size:18px;">#BigQuery</strong>, and the results were visualized using 
-<strong style="font-size:18px;">#Power BI 💻</strong>.
+In this analysis, <strong style="font-size:18px;">#SQL (BigQuery) 🎯</strong> was used to clean, organize, and analyze customer and sales data, while <strong style="font-size:18px;">#Power BI 💻</strong> was used to visualize the results through interactive dashboards.<br>
+This project aimed to transform raw e-commerce data into meaningful business insights by analyzing customer demographics, purchasing behavior, sales distribution, and product performance to support data-driven business decisions.
 </p>
 
-<h3>Project Overview:</h3>
-<p>
-This analysis project provides a comprehensive view of customer demographics, purchase preferences, and sales distribution across categories and brands, helping inform targeted marketing and product strategies.
-</p>
+<h3>Project Highlights:</h3>
+<ul>
+<li>Built an interactive dashboard providing a comprehensive view of customer behavior, demographics, sales distribution, and purchasing patterns.</li>
+</ul>
 
 <h3>Tools & Technologies:</h3>
 <ul>
-<li>SQL</li>
-<li>BigQuery</li>
+<li>SQL (BigQuery)</li>
 <li>Power BI</li>
+</ul>
+
+<h3>Key Analysis Areas:</h3>
+<ul>
+<li>Top Category Sales</li>
+<li>Top Brand Sales</li>
+<li>Customer Location Analysis</li>
+<li>Gender & Age Distribution</li>
+<li>Customer Acquisition Sources</li>
+<li>Purchasing Behavior Analysis</li>
+</ul>
+
+<h3>Advanced Insights:</h3>
+<ul>
+<li>Identified the highest-performing product categories and leading brands.</li>
+<li>Analyzed customer demographics to understand target audience segments.</li>
+<li>Evaluated customer acquisition sources and purchasing behavior to uncover buying patterns.</li>
+<li>Explored geographic distribution to identify regional customer trends.</li>
+</ul>
+
+<h3>Business Value:</h3>
+<ul>
+<li>Provides a comprehensive understanding of customer behavior and sales performance.</li>
+<li>Supports marketing and product strategies with data-driven insights.</li>
+<li>Helps identify high-value customer segments and business growth opportunities.</li>
 </ul>
 
 ###
