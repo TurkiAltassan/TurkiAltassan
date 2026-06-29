@@ -219,7 +219,8 @@ This project aimed to transform raw e-commerce data into meaningful business ins
 
 <h3>Tools & Technologies:</h3>
 <ul>
-<li>SQL (BigQuery)</li>
+<li>SQL</li>
+<li>Google BigQuery</li>
 <li>Power BI</li>
 </ul>
 
