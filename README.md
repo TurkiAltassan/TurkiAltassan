@@ -1,372 +1,219 @@
-# 👋 Hi, I'm Turki Altasan
+<a id="top"></a>
+<div align="center">Turki Altasan
+Turning business data into clear decisions.
+Data Analyst · Business Intelligence · Data Science
+Riyadh, Saudi Arabia
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3200&pause=1200&color=22B8B5&center=true&vCenter=true&width=650&height=40&lines=Sales%2C+Finance+%26+Procurement+Analytics;From+raw+data+to+business+decisions;Power+BI+%7C+SQL+%7C+Python" alt="Sales, Finance and Procurement Analytics — Power BI, SQL and Python" width="650" /><p>
+  <a href="https://www.linkedin.com/in/turki-altasan/"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:altassanturki@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-22B8B5?style=for-the-badge" alt="Send me an email" /></a>
+  <a href="#featured-project"><img src="https://img.shields.io/badge/Portfolio-Explore_my_work-071F2A?style=for-the-badge" alt="Explore my projects" /></a>
+</p>
+About  ·  Experience  ·  Featured project  ·  More projects  ·  Toolkit  ·  Credentials
+</div><a id="about"></a>
+The questions behind my dashboards
+How are we performing? Where are the gaps? What should we focus on next?
 
-💡 **Data Analyst** | Skilled in **SQL**, **Python**, **Excel**, **Power BI**, **Tableau**, and **Looker**  
-🎯 Passionate about turning data into actionable insights
+I'm a Data Analyst with 2+ years of experience, developing Power BI solutions across Sales, Finance, and Procurement. I work with management and sales teams to track performance, understand profitability, and identify growth opportunities.
 
-I enjoy analyzing datasets, building interactive dashboards, and transforming raw data into meaningful insights using tools like Python, SQL, Power BI, and Excel.  
-My goal is to grow as a data analyst, contribute to impactful business decisions, and continuously improve my technical and analytical skills.
+My work connects data preparation, modeling, and visualization with the decisions people need to make: which customers to prioritize, where targets are slipping, and which products contribute to growth.
 
----
-
-## Skills & Technologies 🚀
-
-### 📊 Data Analysis
-
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-
-### 📈 Visualization
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau)
-![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-4479A1?style=for-the-badge)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-
----
+<a id="experience"></a>
+Experience in numbers
+210,000+	13% → ≤5%	13+	5
+Rows integrated and analyzed	Revenue share from unidentified customers	Sales representatives covered	Branches across Saudi Arabia
 
 
-## SKILLS 🤹🏼
+- Performance visibility: Built connected Power BI dashboards with automated refresh, target tracking, remaining goals, and MoM, YoY, and YTD comparisons.
+- Data quality: Collaborated with the sales team to reduce the share of revenue attributed to unidentified customers from 13% to 5% or less.
+- Sales effectiveness: Developed 6+ performance metrics to highlight target achievement, customer engagement, and improvement areas.
+- Customer opportunities: Analyzed purchasing patterns and product performance to support cross-selling, outreach, and purchasing decisions.
+<sub>These figures describe my professional experience. The portfolio project figures below describe their respective datasets.</sub>
+<a id="featured-project"></a>
+Featured project · Business Intelligence Dashboard
+One reporting experience. A 360° view of sales performance.
 
-###
+An integrated Power BI solution connecting executive KPIs with customer behavior, product profitability, regional performance, sales channels, and sales representative effectiveness.
 
-• Data Cleaning. • Data Visualization. • Data Analysis. • Programming (Java, C#, C++). • Statistical Analysis. <br> • Analytical Thinking. • Critical Thinking. • Teamwork. • Responsibility. • Problem Solving. • Microsoft Office. • Project Management.
+Business question: Where is performance strong, where are we missing targets, and which customers, products, or teams deserve attention?
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square" alt="Excel" />
+  <img src="https://img.shields.io/badge/Focus-Sales_%26_Profitability-22B8B5?style=flat-square" alt="Focus: Sales and Profitability" />
+</p>
+[!\[Business Intelligence Dashboard — featured report preview\]\(For-sales-14.png)](For-sales-14.png)
 
-###
+<sub>Click the preview to inspect the full-size image. Expand the gallery below to explore the other report pages.</sub>
+Net Sales	Gross Profit	Gross Margin	Customers	Coverage
+5.12M SAR	1.87M SAR	36.60%	212	4 regions · 9 categories
 
----
 
-###
+From analysis to action
+Analysis area	What the report explores	Decision it supports
+Sales & targets	Revenue trends, growth, and target achievement	Prioritize performance gaps and follow-up actions
+Profitability	Gross profit, margin, and category contribution	Review product mix and investigate margin pressure
+Customers	New vs. returning customers and purchasing patterns	Identify retention and cross-selling opportunities
+Products & regions	Category performance and geographic comparisons	Focus commercial attention on relevant segments
+Channels & representatives	Contribution, growth, and target performance	Guide channel priorities and sales coaching
 
-## Connect with Me 📩
 
-###
+<details>
+<summary><strong>Explore the full dashboard gallery · 6 report previews</strong></summary>
+The report brings Sales, Customers, General Performance, Products, Regions, Channels, and Sales Representatives into a connected analytical experience. Drill-down views allow users to move from an overview to a more focused investigation.
 
-  <a href="mailto:altassanturki@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/turki-altasan?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BPdOF5PSnQgCRVpmKcH0BsQ%3D%3D" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://wa.me/966554763478" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  </a>
+[!\[Business Intelligence Dashboard — preview 1\]\(For-sales-14.png)](For-sales-14.png)
+[!\[Business Intelligence Dashboard — preview 2\]\(For-sales-13.png)](For-sales-13.png)
+[!\[Business Intelligence Dashboard — preview 3\]\(For-sales-12.png)](For-sales-12.png)
+[!\[Business Intelligence Dashboard — preview 4\]\(For-sales-17.png)](For-sales-17.png)
+[!\[Business Intelligence Dashboard — preview 5\]\(For-sales-16.png)](For-sales-16.png)
+[!\[Business Intelligence Dashboard — preview 6\]\(For-sales-15.png)](For-sales-15.png)
 
-###
+Back to featured project
+</details><a id="more-projects"></a>
+More selected work
+Explore a business question, then open the project to see the approach and report previews.
+Project	Business question	Tools
+Sales & Performance	Are sales, profitability, and target achievement moving together?	Excel · Power BI
+Sales, Customers & POS	Which products, branches, and customer groups drive performance?	Excel · Power BI
+E-commerce Customer Analysis	Who are our customers, and what shapes their purchasing behavior?	SQL · BigQuery · Power BI
+Tharwa Bank · Customer Churn	Which customer patterns can inform retention priorities?	SQL · BigQuery · Looker Studio
+Voice Verification	How can voice patterns be used to verify a user?	Python · tkinter
 
----
 
-###
+<a id="sales-performance"></a>
+<details>
+<summary><strong>01 · Comprehensive Sales & Performance Dashboard</strong> — 8 dashboard pages</summary>
+Objective: Analyze sales performance, customer behavior, and sales representative targets using a Kaggle dataset.
 
-<h2 align="center">✨ Highlights of my Data Analysis Projects:</h2>
+Approach: Built eight interactive dashboard pages connecting sales, profitability, products, regions, customers, and representatives. Time-series analysis, geographic comparisons, and a decomposition tree help users investigate performance.
+Net Sales	Target Achievement	Profit	Profit Margin	Customers
+5.00M SAR	104.27%	252K SAR	5.05%	2.84K
 
-###
 
-<div align="center">
-  <img height="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGp0Z2RzNGVqeGtkams5OGh0a3l5dTBrdG5kY3RkaDlqbTZqa2hoNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.webp"  />
+Decision supported: Compare target achievement with profitability and investigate which regions, products, and customer segments contribute to the result.
+
+Tools: Excel · Power BI
+
+[!\[Sales and Performance Dashboard — preview 1\]\(For-sales-4.png)](For-sales-4.png)
+[!\[Sales and Performance Dashboard — preview 2\]\(For-sales-5.png)](For-sales-5.png)
+[!\[Sales and Performance Dashboard — preview 3\]\(For-sales-6.png)](For-sales-6.png)
+[!\[Sales and Performance Dashboard — preview 4\]\(For-sales-7.png)](For-sales-7.png)
+[!\[Sales and Performance Dashboard — preview 5\]\(For-sales-8.png)](For-sales-8.png)
+[!\[Sales and Performance Dashboard — preview 6\]\(For-sales-9.png)](For-sales-9.png)
+[!\[Sales and Performance Dashboard — preview 7\]\(For-sales-10.png)](For-sales-10.png)
+[!\[Sales and Performance Dashboard — preview 8\]\(For-sales-11.png)](For-sales-11.png)
+
+Back to project index
+</details>
+<a id="sales-pos"></a>
+<details>
+<summary><strong>02 · Sales, Customers & Point of Sale Performance</strong> — retail analysis</summary>
+Objective: Explore sales and customer behavior using a Kaggle dataset, with a focus on branch and point of sale performance.
+
+Analysis: Customer purchasing behavior and geography, product line sales and profitability, payment methods, and branch financial performance.
+
+Decision supported: Review product priorities, membership opportunities, and differences in branch performance.
+
+Tools: Excel · Power BI
+
+[!\[Sales, Customers and POS Dashboard — preview 1\]\(For-sales-1.png)](For-sales-1.png)
+[!\[Sales, Customers and POS Dashboard — preview 2\]\(For-sales-2.png)](For-sales-2.png)
+[!\[Sales, Customers and POS Dashboard — preview 3\]\(For-sales-3.png)](For-sales-3.png)
+
+Back to project index
+</details>
+<a id="ecommerce"></a>
+<details>
+<summary><strong>03 · E-commerce Customer Performance Analysis</strong> — SQL to dashboard</summary>
+Objective: Understand customer demographics, purchasing behavior, sales distribution, and product performance for an online store.
+
+Approach: Used SQL in Google BigQuery to clean, organize, and analyze the data, then built a Power BI dashboard to communicate the findings.
+
+Analysis: Category and brand sales, customer locations, age and gender distribution, customer acquisition sources, and purchasing behavior.
+
+Decision supported: Inform audience targeting and product priorities using customer and sales patterns.
+
+Tools: SQL · Google BigQuery · Power BI
+
+[!\[E-commerce Customer Performance Analysis dashboard\]\(pixelcut-export.png)](pixelcut-export.png)
+
+Back to project index
+</details>
+<a id="tharwa-bank"></a>
+<details>
+<summary><strong>04 · Tharwa Bank · Customer Churn Analysis</strong> — retention insights</summary>
+Objective: Understand customer attrition and identify patterns that can inform retention strategies.
+
+Approach: Explored customer activity and transactions, cleaned and transformed data with SQL and BigQuery, and visualized churn and engagement metrics in Looker Studio.
+
+Analysis: Customer segments, engagement, transaction behavior, account activity, and patterns associated with churn.
+
+Decision supported: Prioritize customer segments for retention review and monitor indicators associated with attrition.
+
+Tools: SQL · Google BigQuery · Looker Studio
+
+<sub>The project focuses on analysis and recommendations; no measured reduction in churn is claimed.</sub>
+
+[!\[Tharwa Bank customer churn analysis — preview 1\]\(pic1.png)](pic1.png)
+[!\[Tharwa Bank customer churn analysis — preview 2\]\(pic2.png)](pic2.png)
+[!\[Tharwa Bank customer churn analysis — preview 3\]\(pic3.png)](pic3.png)
+
+Back to project index
+</details>
+<a id="voice-verification"></a>
+<details>
+<summary><strong>05 · Voice Verification · Computer Science Graduation Project</strong> — Python application</summary>
+Objective: Explore user verification based on voice characteristics and differences in sound wave patterns.
+
+Implementation: Developed a Python application with a tkinter graphical user interface.
+
+Tools: Python · tkinter
+
+[!\[Voice Verification graduation project poster\]\(Project-Poster.jpg)](Project-Poster.jpg)
+[!\[Voice Verification application — preview 1\]\(pixelcut-export-m.jpeg)](pixelcut-export-m.jpeg)
+[!\[Voice Verification application — preview 2\]\(pixelcut-export-p.png)](pixelcut-export-p.png)
+
+Back to project index
+</details><a id="toolkit"></a>
+My analytical toolkit
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge" alt="Power BI" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" alt="SQL" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge" alt="Excel" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge" alt="Looker Studio" />
+</p>Area	Tools & techniques
+Business intelligence	Power BI · DAX · Power Query · Data modeling · Row-level security
+Data preparation & querying	SQL · Google BigQuery · Excel · Data cleaning & validation
+Python analysis	Pandas · NumPy · Matplotlib
+Reporting & exploration	Tableau · Looker Studio · KPI design · Trend & profitability analysis
+
+
+<details>
+<summary><strong>How I approach an analytical problem</strong></summary>
+1. Start with the decision. Clarify who will use the analysis and what action it should inform.
+2. Validate the data. Check completeness, consistency, and the definitions behind the numbers.
+3. Build the model. Connect the relevant datasets and define measures that reflect business logic.
+4. Design for exploration. Give users an overview and a clear path into the detail.
+5. Translate the findings. Explain the gaps, opportunities, and next questions in business terms.
+</details><a id="credentials"></a>
+Education & credentials
+Credential	Institution / provider
+Microsoft Certified: Power BI Data Analyst Associate	Microsoft
+Google Advanced Data Analytics Professional Certificate	Google · Coursera
+CompTIA Data+	CompTIA
+Bachelor's Degree in Computer Science	Academic degree
+Data Analysis Bootcamp · May 2024	Saudi Digital Academy · Le Wagon
+Data Science & Artificial Intelligence Track	Satr Educational Platform · Tuwaiq Academy
+Specialist · Computer Science	Saudi Council of Engineers
+
+
+<a id="contact"></a>
+<div align="center">Let's turn your next business question into a clear answer.
+Based in Riyadh and open to analytics opportunities, collaboration,
+and conversations about better business decisions through data.
+
+LinkedIn · Email · WhatsApp
+
+↑ Back to top
 </div>
-
-###
----
-
-<h2 align="center">1. Business Intelligence Dashboard - Data Analysis</h2>
-<p align="center">
-In this analysis, <strong style="font-size:18px;">#Power BI 💻</strong> was used to build a complete business intelligence solution designed to deliver a 360° analytical view across the entire sales cycle 🎯 — from overall business performance to customer behavior, product profitability, and sales rep effectiveness.<br>
-
-This project transformed raw sales data into interactive Power BI dashboards that provide clear, actionable insights to support faster decision-making, performance optimization, and smarter business strategies. The solution combines executive-level KPIs, profitability analysis, customer segmentation, target tracking, regional and category comparisons, product contribution analysis, and sales representative performance monitoring into one integrated reporting experience.
-</p>
-
-<h3>Project Highlights:</h3>
-<ul>
-<li>Developed a suite of interactive dashboards covering Sales, Customers, General Performance, Products, Regions, Channels, and Sales Representatives.</li>
-<li>Built dynamic drill-down experiences to enable deeper business analysis and performance exploration.</li>
-<li>Integrated profitability, target tracking, and growth trend analysis into a centralized reporting solution.</li>
-</ul>
-
-<h3>Tools & Technologies:</h3>
-<ul>
-<li>Excel</li>
-<li>Power BI</li>
-</ul>
-
-<h3>Key Metrics:</h3>
-<ul>
-<li>Net Sales: 5.12M SAR</li>
-<li>Gross Profit: 1.87M SAR (36.60% margin)</li>
-<li>Customers: 212 (including New vs Returning customer analysis)</li>
-<li>Coverage: 4 regions | 9 product categories</li>
-</ul>
-
-<h3>Advanced Insights:</h3>
-<ul>
-<li>Time-series and target analysis to monitor monthly sales and profitability trends while identifying performance gaps.</li>
-<li>Customer behavior and segmentation analysis focusing on retention, purchasing patterns, and profitability impact.</li>
-<li>Product contribution and category performance analysis to identify top-performing and underperforming segments.</li>
-<li>Regional and category-level comparisons to evaluate business performance across different markets.</li>
-<li>Sales channel analysis (Online, Retail, Direct) to measure revenue contribution and profitability.</li>
-<li>Sales representative performance evaluation including growth trends, target achievement, and contribution analysis.</li>
-<li>Gross profit and margin analysis to uncover operational efficiency and profitability opportunities.</li>
-</ul>
-
-<h3>Business Value:</h3>
-<ul>
-<li>Delivers a centralized 360° view of business performance across multiple dimensions.</li>
-<li>Improves decision-making speed through interactive KPI tracking and target comparison.</li>
-<li>Identifies revenue growth opportunities and optimization areas across customers, regions, products, and channels.</li>
-<li>Enhances visibility into customer behavior, supporting stronger retention and segmentation strategies.</li>
-<li>Provides executive-level insights that support data-driven business planning and performance management.</li>
-</ul>
-
-###
-
-![My Image](For-sales-14.png) ![My Image](For-sales-13.png) ![My Image](For-sales-12.png) ![My Image](For-sales-17.png) ![My Image](For-sales-16.png) ![My Image](For-sales-15.png)
-
-###
-
----
-
-
-<h2 align="center">2. A Comprehensive Sales and Performance Dashboard - Data Analysis</h2>
-<p align="center">
-In this analysis, <strong style="font-size:18px;">#Power BI 💻</strong> was used to analyze data 🎯 extracted from Kaggle, with the aim of studying sales performance and understanding customer behavior more deeply with track of sales Rep target.<br>
-This project aimed to transform raw data into interactive Power BI dashboards that provide a 360° view of sales and operational performance. It goes beyond basic sales tracking to uncover insights on profitability, customer behavior, regional performance, and product efficiency.
-</p>
-
-<h3>Project Highlights:</h3>
-<ul>
-<li>Built 8 interactive dashboards covering sales, customers, products, regions, and representatives.</li>
-</ul>
-
-<h3>Tools & Technologies:</h3>
-<ul>
-<li>Excel</li>
-<li>Power BI</li>
-</ul>
-
-<h3>Key Metrics:</h3>
-<ul>
-<li>Net Sales: 5.00M SAR (104.27% of target)</li>
-<li>Profit: 252K SAR (5.05% margin)</li>
-<li>Customers: 2.84K (50.4% new, 49.6% returning)</li>
-<li>Coverage: 4 regions (North, East, West, South)</li>
-</ul>
-
-<h3>Advanced Insights:</h3>
-<ul>
-<li>Time-series and geographic analysis to track trends and regional growth.</li>
-<li>Product and customer analysis to identify top-performing items and buying behavior.</li>
-<li>Decomposition Tree for detailed, step-by-step performance exploration.</li>
-</ul>
-
-<h3>Business Value:</h3>
-<ul>
-<li>Delivers a full performance overview across departments.</li>
-<li>Supports strategic decision-making with data-driven insights.</li>
-<li>Highlights strengths, growth opportunities, and customer loyalty trends.</li>
-</ul>
-
-###
-
-![My Image](For-sales-4.png) ![My Image](For-sales-5.png) ![My Image](For-sales-6.png) ![My Image](For-sales-7.png) ![My Image](For-sales-8.png) ![My Image](For-sales-9.png) ![My Image](For-sales-10.png) ![My Image](For-sales-11.png)
-
-###
----
-
-<h2 align="center">3. Analyzing Sales, Customers, and Point of Sale Performance - Data Analysis</h2>
-<p align="center">
-In this analysis, <strong style="font-size:18px;">#Power BI 💻</strong> was used to analyze data 🎯 extracted from Kaggle, with the aim of studying sales performance and understanding customer behavior more deeply.
-</p>
-
-<h3>Key Findings:</h3>
-<ul>
-<li>Category of customers by purchasing behavior and geography.</li>
-<li>Identification of the most selling and profitable product lines.</li>
-<li>Analyzing payment methods and financial performance of each branch.</li>
-</ul>
-
-<h3>Tools & Technologies:</h3>
-<ul>
-<li>Excel</li>
-<li>Power BI</li>
-</ul>
-
-<h3>Business Value:</h3>
-<p>
-This analysis helped provide clear insights to support strategic decision-making, such as improving membership programs, investing in the most in-demand products, and developing financial policies.
-</p>
-
-###
-
-![My Image](For-sales-1.png) ![My Image](For-sales-2.png) ![My Image](For-sales-3.png) 
-
-###
----
-
-<h2 align="center">4. Customer Performance Analysis for a Store Website - Data Analysis</h2>
-
-<p align="center">
-In this analysis, <strong style="font-size:18px;">#SQL (BigQuery) 🎯</strong> was used to clean, organize, and analyze customer and sales data, while <strong style="font-size:18px;">#Power BI 💻</strong> was used to visualize the results through interactive dashboards.<br>
-This project aimed to transform raw e-commerce data into meaningful business insights by analyzing customer demographics, purchasing behavior, sales distribution, and product performance to support data-driven business decisions.
-</p>
-
-<h3>Project Highlights:</h3>
-<ul>
-<li>Built an interactive dashboard providing a comprehensive view of customer behavior, demographics, sales distribution, and purchasing patterns.</li>
-</ul>
-
-<h3>Tools & Technologies:</h3>
-<ul>
-<li>SQL</li>
-<li>Google BigQuery</li>
-<li>Power BI</li>
-</ul>
-
-<h3>Key Analysis Areas:</h3>
-<ul>
-<li>Top Category Sales</li>
-<li>Top Brand Sales</li>
-<li>Customer Location Analysis</li>
-<li>Gender & Age Distribution</li>
-<li>Customer Acquisition Sources</li>
-<li>Purchasing Behavior Analysis</li>
-</ul>
-
-<h3>Advanced Insights:</h3>
-<ul>
-<li>Identified the highest-performing product categories and leading brands.</li>
-<li>Analyzed customer demographics to understand target audience segments.</li>
-<li>Evaluated customer acquisition sources and purchasing behavior to uncover buying patterns.</li>
-<li>Explored geographic distribution to identify regional customer trends.</li>
-</ul>
-
-<h3>Business Value:</h3>
-<ul>
-<li>Provides a comprehensive understanding of customer behavior and sales performance.</li>
-<li>Supports marketing and product strategies with data-driven insights.</li>
-<li>Helps identify high-value customer segments and business growth opportunities.</li>
-</ul>
-
-###
-
-![My Image](pixelcut-export.png)
-
-###
----
-
-<h2 align="center">5. Tharwa Bank – Data Analysis</h2>
-<p align="center">
-We aimed to boost customer retention and reduce churn rate for Tharwa Bank. Using 
-<strong style="font-size:18px;">Google #BigQuery</strong>, 
-<strong style="font-size:18px;">#SQL 🎯</strong>, and 
-<strong style="font-size:18px;">#Looker Studio</strong> & 
-<strong style="font-size:18px;">#Power BI 💻</strong>, 
-we performed data-driven analysis to enhance performance and engagement.
-</p>
-
-<h3>Project Overview:</h3>
-<p>
-Customer retention is one of the most critical challenges in the banking industry. In this project, we analyzed customer behavior and engagement data for Tharwa Bank to understand the factors contributing to customer churn and identify opportunities to improve retention.
-</p>
-
-<h3>Explanation:</h3>
-Customer churn rate measures the percentage of customers who leave a bank's services within a specific timeframe, making it a critical metric for evaluating customer retention.
-
-<h3>Business Problem:</h3>
-<p>
-Customer churn directly impacts revenue, growth, and customer lifetime value. The objective of this project was to identify behavioral patterns associated with churn, uncover key risk indicators, and provide data-driven recommendations to support customer retention strategies.
-</p>
-
-<h3>Tools & Technologies:</h3>
-<ul>
-<li>SQL</li>
-<li>Google BigQuery</li>
-<li>Looker Studio</li>
-</ul>
-
-<h3>Methodology:</h3>
-<ul>
-<li>Collected and explored customer activity and transaction data.</li>
-<li>Cleaned and transformed datasets using SQL and BigQuery.</li>
-<li>Analyzed customer engagement, transaction behavior, and account activity.</li>
-<li>Identified churn trends and behavioral patterns among customers.</li>
-<li>Created interactive dashboards in Looker Studio to visualize key retention and churn metrics.</li>
-</ul>
-
-<h3>Key Outcomes:</h3>
-<ul>
-<li>Identified customer segments with higher churn risk.</li>
-<li>Uncovered behavioral indicators associated with customer attrition.</li>
-<li>Provided actionable insights to support retention initiatives and improve customer engagement.</li>
-<li>Developed executive dashboards for continuous monitoring of churn-related KPIs.</li>
-</ul>
-
-<h3>Project Goal:</h3>
-<p>
-The ultimate goal of this project was to leverage data analytics to help Tharwa Bank better understand customer behavior, reduce churn rates, and support long-term business growth through improved customer retention.
-</p>
-
-###
-
-![My Image](pic1.png) ![My Image](pic2.png) ![My Image](pic3.png) 
-
-###
----
-
-<h2 align="center">6. Graduation Project: Computer Science</h2>
-<p align="center">
-Graduation Project was developed using 
-<strong style="font-size:18px;">#Python 🎯</strong> with the <strong>tkinter</strong> library for creating a graphical user interface.
-</p>
-
-<h3>Project Aim:</h3>
-<p>
-The project's aim is to verify users based on their voices and different sound wave patterns.
-</p>
-
-###
-
-![My Image 1](Project-Poster.jpg) ![My Image 2](pixelcut-export-m.jpeg) ![My Image 3](pixelcut-export-p.png)
-
-###
-
----
-
-###
-
-<h2 align="center">"📚 My Certifications: "</h2>
-
-###
-
-<div align="center">
-  <img height="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjRzdWhzOXFnMWh6eGR0NHl3MTExa2R6YW9leDE4Nm1oOGRzMW0ydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.webp"  />
-</div>
-
-###
-
-<h4 align="center">🗂️ BootCamp:<br>☑️Data Analysis.<br>By [Saudi Digital Academy (SDA) & Le Wagon]<br>Tools we use: SQL & Python & Excel & Google BigQuery & Tableau & Power BI & Looker & Zapier & dbt & Git & APIs & Google Analytics & Google Tag Manager<br>Graduated at: 05/2024</h4>
-
-###
-
-<h4 align="center">☑️CompTIA Data+<br>By CompTIA.</h4>
-
-###
-
-<h4 align="center">☑️Data Science & Artificial Intelligence Track<br>By Satr Educational Platform & Tuwaiq Academy.</h4>
-
-###
-
-<h4 align="center">☑️Google Advanced Data Analytics<br>By Google & Coursera.</h4>
-
-###
-
-<h4 align="center">☑️Membership Category: Specialist<br>Specialization: Computer Science.<br>Membership number: 1009484<br>By Saudi Council of Engineers.</h4>
-
-###
----
-
-<h1 align="center">Thank you for visiting! 🤍</h1>
-
-###
